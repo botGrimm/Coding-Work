@@ -2,3 +2,5 @@ blah blah blah
 blah blah blah 2
 
 this branch gets some other stuff
+
+im editing the master branch with a side branch
